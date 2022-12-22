@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-constraint-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gymshark/ios-constraint-kit.git",
+      "state" : {
+        "revision" : "404baf28a47a5cbbb9fcb59ef8c7be605e394c4a",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "ios-stack-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gymshark/ios-stack-kit",
+      "state" : {
+        "revision" : "dc4ea6594e1477c40bca84cb17c1c48443781599",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
